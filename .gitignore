@@ -1,0 +1,9 @@
+# backend
+gidy/target/
+
+# frontend
+gidy-frontend/node_modules/
+gidy-frontend/dist/
+
+# IDE
+.idea
