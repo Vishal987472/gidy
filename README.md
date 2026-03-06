@@ -1,4 +1,4 @@
-Gidy Profile Page Replica
+#Gidy Profile Page Replica
 This project is a full-stack application that recreates the Gidy.ai profile page.
 
 The application allows users to view and edit profile information including:
@@ -37,6 +37,7 @@ Navigate to project
 cd gidy
 
 Add environment variables
+
 DATABASE_URL= JWT_SECRET=
 
 Run backend
